@@ -1,0 +1,9 @@
+Save this before you paste anything private into ChatGPT.
+
+Marty nearly pasted the landlord's lease in: 12 pages of names, rent and signatures.
+
+2 things to do first. Check Data Controls in ChatGPT Settings, because on personal plans your chats can be used to train models unless you switch that off. And take out names, numbers and anything you wouldn't tape to the register.
+
+If your job has an AI policy, that beats any setting. ChatGPT privacy is mostly about what you choose to paste.
+
+#chatgpt #aitools #privacy

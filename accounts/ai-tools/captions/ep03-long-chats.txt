@@ -1,0 +1,9 @@
+Save this for the next time ChatGPT forgets something you told it on day one.
+
+Long chats get worse. Every model can only hold so much text at once, so in a 400-message chat your first instructions start to fade. It isn't a ChatGPT memory problem, it's a length problem.
+
+The fix takes 30 seconds: ask for a summary of the chat, open a new chat, paste the summary in. Same context, sharper answers.
+
+Otto calls it the Clean Slate Short Stack. Marty calls it "Okay."
+
+#chatgpt #chatgpttips #aitools

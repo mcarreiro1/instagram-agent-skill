@@ -9,8 +9,8 @@ Copy to `~/.claude/instagram/cast.md` so `/ig-duo` picks it up.
   the supplier emails, the lease. The diner makes each tip concrete, and the
   people watching (office workers, freelancers, small-business owners) all
   have a version of it.
-- **Handle:** (check it's free on Instagram and as a newsletter slug. Ideas:
-  `@martysstack`, `@martysstack.ai`, `@ottoexplains`, `@dinerprompts`)
+- **Handle:** `@martysstack`. Use the same name for the newsletter slug.
+- **Newsletter:** *The Weekly Special*
 - **Niche:** AI tools and how to actually use them, for people who are not engineers.
 - **Who is watching:** people aged 25-55 who use ChatGPT a few times a week, or
   have been told they should, and suspect they're doing it wrong.

@@ -1,0 +1,9 @@
+Comment ASK and Otto will DM you the one line to add to every big prompt.
+
+Marty typed "diner marketing plan." Three words. ChatGPT guessed the other 200 and wrote a plan for the average diner on earth.
+
+Add this to the end of your prompt: "Ask me 3 questions before you answer." It will ask about the things it was going to guess, like budget, customers and your slow days.
+
+Answer them and the plan is actually about your business. One of the simplest ChatGPT prompt tips there is.
+
+#chatgpt #chatgptprompts #smallbusiness

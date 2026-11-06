@@ -15,6 +15,11 @@ questions.md     30 episode questions for the first month
 week-01/         7 scripts, timed and checked, ready to voice
 week-01/export/  per episode: <ep>.lines.json (one row per line, with an
                  audio filename) and <ep>.srt (captions on estimated timing)
+captions/        the post caption for each episode, linted READY
+dm-flows.md      the comment-keyword DM replies (SETUP, SOURCES, EXAMPLE, ASK,
+                 VERSIONS, MENU) and how to set them up
+lead-magnet/     Otto's Prompt Menu: 20 copy-paste prompts, the newsletter freebie
+newsletter/      welcome email (delivers the menu) and issue #1
 ```
 
 ## Week 1
