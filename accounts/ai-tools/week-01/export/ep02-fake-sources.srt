@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:02,670
+Nobody tells you ChatGPT can invent a source.
+
+2
+00:00:02,870 --> 00:00:05,120
+Studies, quotes, links. All very confident.
+
+3
+00:00:05,320 --> 00:00:07,320
+But it gave me a link!
+
+4
+00:00:07,520 --> 00:00:09,770
+Click it. Sometimes it goes nowhere.
+
+5
+00:00:09,970 --> 00:00:10,970
+So it's lying?
+
+6
+00:00:11,170 --> 00:00:14,540
+No. It predicts what a source should look like.
+
+7
+00:00:14,740 --> 00:00:16,740
+That's literally lying with extra steps.
+
+8
+00:00:16,940 --> 00:00:20,690
+Fair. Fix: turn on web search, then click every link.
+
+9
+00:00:20,690 --> 00:00:24,070
+If you can't open it, you can't quote it.
+
+10
+00:00:24,270 --> 00:00:27,270
+So the source doesn't exist until I click it.
+
+11
+00:00:27,470 --> 00:00:30,840
+Comment SOURCES for my 3-step check. Click every source.
+

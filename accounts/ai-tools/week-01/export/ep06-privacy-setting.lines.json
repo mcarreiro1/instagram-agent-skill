@@ -1,0 +1,129 @@
+{
+  "total_seconds": 32.51,
+  "speakers": {
+    "DEX": {
+      "lines": 6,
+      "share": 0.57,
+      "wpm": 160.0
+    },
+    "NOVA": {
+      "lines": 5,
+      "share": 0.43,
+      "wpm": 180.0
+    }
+  },
+  "lines": [
+    {
+      "n": 1,
+      "speaker": "DEX",
+      "text": "Don't paste that contract into ChatGPT yet.",
+      "start": 0.0,
+      "end": 2.62,
+      "dur": 2.62,
+      "file": "001_dex.mp3",
+      "directions": []
+    },
+    {
+      "n": 2,
+      "speaker": "NOVA",
+      "text": "Why not? It's just a client contract.",
+      "start": 2.83,
+      "end": 5.16,
+      "dur": 2.33,
+      "file": "002_nova.mp3",
+      "directions": []
+    },
+    {
+      "n": 3,
+      "speaker": "DEX",
+      "text": "With their name, their rates and your signature.",
+      "start": 5.36,
+      "end": 8.36,
+      "dur": 3.0,
+      "file": "003_dex.mp3",
+      "directions": []
+    },
+    {
+      "n": 4,
+      "speaker": "NOVA",
+      "text": "ChatGPT won't tell anyone.",
+      "start": 8.56,
+      "end": 9.89,
+      "dur": 1.33,
+      "file": "004_nova.mp3",
+      "directions": []
+    },
+    {
+      "n": 5,
+      "speaker": "DEX",
+      "text": "On personal plans, chats can be used to train models.",
+      "start": 10.09,
+      "end": 13.84,
+      "dur": 3.75,
+      "file": "005_dex.mp3",
+      "directions": []
+    },
+    {
+      "n": 6,
+      "speaker": "DEX",
+      "text": "There's a switch for that. Check it.",
+      "start": 13.84,
+      "end": 16.47,
+      "dur": 2.62,
+      "file": "006_dex.mp3",
+      "directions": [
+        "on screen: Settings > Data controls > \"Improve the model for everyone\" {{verify wording and default}}"
+      ]
+    },
+    {
+      "n": 7,
+      "speaker": "NOVA",
+      "text": "And if my boss says no AI with client stuff?",
+      "start": 16.67,
+      "end": 20.0,
+      "dur": 3.33,
+      "file": "007_nova.mp3",
+      "directions": []
+    },
+    {
+      "n": 8,
+      "speaker": "DEX",
+      "text": "Then your boss wins. Company policy beats any setting.",
+      "start": 20.2,
+      "end": 23.57,
+      "dur": 3.38,
+      "file": "008_dex.mp3",
+      "directions": []
+    },
+    {
+      "n": 9,
+      "speaker": "NOVA",
+      "text": "So I'll remove the names first?",
+      "start": 23.77,
+      "end": 25.77,
+      "dur": 2.0,
+      "file": "009_nova.mp3",
+      "directions": []
+    },
+    {
+      "n": 10,
+      "speaker": "DEX",
+      "text": "Names, numbers, anything you wouldn't email a stranger.",
+      "start": 25.97,
+      "end": 28.97,
+      "dur": 3.0,
+      "file": "010_dex.mp3",
+      "directions": []
+    },
+    {
+      "n": 11,
+      "speaker": "NOVA",
+      "text": "Side hustle 52: reading the contract before I paste it.",
+      "start": 29.17,
+      "end": 32.51,
+      "dur": 3.33,
+      "file": "011_nova.mp3",
+      "directions": []
+    }
+  ]
+}

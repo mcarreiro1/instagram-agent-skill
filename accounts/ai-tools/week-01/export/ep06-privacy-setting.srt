@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:02,620
+Don't paste that contract into ChatGPT yet.
+
+2
+00:00:02,830 --> 00:00:05,160
+Why not? It's just a client contract.
+
+3
+00:00:05,360 --> 00:00:08,360
+With their name, their rates and your signature.
+
+4
+00:00:08,560 --> 00:00:09,890
+ChatGPT won't tell anyone.
+
+5
+00:00:10,090 --> 00:00:13,840
+On personal plans, chats can be used to train models.
+
+6
+00:00:13,840 --> 00:00:16,470
+There's a switch for that. Check it.
+
+7
+00:00:16,670 --> 00:00:20,000
+And if my boss says no AI with client stuff?
+
+8
+00:00:20,200 --> 00:00:23,570
+Then your boss wins. Company policy beats any setting.
+
+9
+00:00:23,770 --> 00:00:25,770
+So I'll remove the names first?
+
+10
+00:00:25,970 --> 00:00:28,970
+Names, numbers, anything you wouldn't email a stranger.
+
+11
+00:00:29,170 --> 00:00:32,510
+Side hustle 52: reading the contract before I paste it.
+

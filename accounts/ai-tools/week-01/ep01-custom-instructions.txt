@@ -1,0 +1,12 @@
+# EP01 - Custom instructions. Hook #6 The Receipt, 51.8 OK.
+NOVA: 40 times I explained my job to ChatGPT.
+DEX: You don't need to. Tell it once, in settings.
+[on screen: ChatGPT > Settings > Personalization > Custom instructions {{verify menu path}}]
+NOVA: Settings has a page about me?
+DEX: Custom instructions. What you do, who it's for, how long.
+NOVA: And it reads that every chat?
+DEX: Every new chat, before your first message.
+NOVA: So I write "I'm a millionaire" and...
+DEX: It writes like you're a millionaire. You stay broke.
+NOVA: Side hustle 48: explain my job once. Comment SETUP.
+DEX: And I'll send the template. So you never explain your job again.

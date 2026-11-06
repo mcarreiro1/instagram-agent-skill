@@ -1,0 +1,119 @@
+{
+  "total_seconds": 31.42,
+  "speakers": {
+    "NOVA": {
+      "lines": 5,
+      "share": 0.434,
+      "wpm": 180.0
+    },
+    "DEX": {
+      "lines": 5,
+      "share": 0.566,
+      "wpm": 160.0
+    }
+  },
+  "lines": [
+    {
+      "n": 1,
+      "speaker": "NOVA",
+      "text": "40 times I explained my job to ChatGPT.",
+      "start": 0.0,
+      "end": 2.67,
+      "dur": 2.67,
+      "file": "001_nova.mp3",
+      "directions": []
+    },
+    {
+      "n": 2,
+      "speaker": "DEX",
+      "text": "You don't need to. Tell it once, in settings.",
+      "start": 2.87,
+      "end": 6.24,
+      "dur": 3.38,
+      "file": "002_dex.mp3",
+      "directions": []
+    },
+    {
+      "n": 3,
+      "speaker": "NOVA",
+      "text": "Settings has a page about me?",
+      "start": 6.44,
+      "end": 8.44,
+      "dur": 2.0,
+      "file": "003_nova.mp3",
+      "directions": [
+        "on screen: ChatGPT > Settings > Personalization > Custom instructions {{verify menu path}}"
+      ]
+    },
+    {
+      "n": 4,
+      "speaker": "DEX",
+      "text": "Custom instructions. What you do, who it's for, how long.",
+      "start": 8.64,
+      "end": 12.39,
+      "dur": 3.75,
+      "file": "004_dex.mp3",
+      "directions": []
+    },
+    {
+      "n": 5,
+      "speaker": "NOVA",
+      "text": "And it reads that every chat?",
+      "start": 12.59,
+      "end": 14.59,
+      "dur": 2.0,
+      "file": "005_nova.mp3",
+      "directions": []
+    },
+    {
+      "n": 6,
+      "speaker": "DEX",
+      "text": "Every new chat, before your first message.",
+      "start": 14.79,
+      "end": 17.42,
+      "dur": 2.62,
+      "file": "006_dex.mp3",
+      "directions": []
+    },
+    {
+      "n": 7,
+      "speaker": "NOVA",
+      "text": "So I write \"I'm a millionaire\" and...",
+      "start": 17.62,
+      "end": 19.95,
+      "dur": 2.33,
+      "file": "007_nova.mp3",
+      "directions": []
+    },
+    {
+      "n": 8,
+      "speaker": "DEX",
+      "text": "It writes like you're a millionaire. You stay broke.",
+      "start": 20.15,
+      "end": 23.52,
+      "dur": 3.38,
+      "file": "008_dex.mp3",
+      "directions": []
+    },
+    {
+      "n": 9,
+      "speaker": "NOVA",
+      "text": "Side hustle 48: explain my job once. Comment SETUP.",
+      "start": 23.72,
+      "end": 26.72,
+      "dur": 3.0,
+      "file": "009_nova.mp3",
+      "directions": []
+    },
+    {
+      "n": 10,
+      "speaker": "DEX",
+      "text": "And I'll send the template. So you never explain your job again.",
+      "start": 26.92,
+      "end": 31.42,
+      "dur": 4.5,
+      "file": "010_dex.mp3",
+      "directions": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:01,880
+Stop accepting ChatGPT's first answer.
+
+2
+00:00:02,080 --> 00:00:05,080
+But it's so confident. Who am I to argue?
+
+3
+00:00:05,280 --> 00:00:07,900
+The person who has to send it.
+
+4
+00:00:08,100 --> 00:00:10,770
+Okay, so I ask it to try again?
+
+5
+00:00:10,970 --> 00:00:13,590
+Better. Ask for 3 versions, all different.
+
+6
+00:00:13,590 --> 00:00:15,840
+Short, funny, formal. Then pick one.
+
+7
+00:00:16,040 --> 00:00:18,710
+Then I pick the best and I'm done?
+
+8
+00:00:18,910 --> 00:00:21,910
+Then say what you liked. It merges them.
+
+9
+00:00:22,110 --> 00:00:24,110
+Side hustle 53: being ChatGPT's manager.
+
+10
+00:00:24,310 --> 00:00:28,060
+Comment VERSIONS for the prompt. Never take the first answer.
+

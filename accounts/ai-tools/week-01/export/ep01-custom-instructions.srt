@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:02,670
+40 times I explained my job to ChatGPT.
+
+2
+00:00:02,870 --> 00:00:06,240
+You don't need to. Tell it once, in settings.
+
+3
+00:00:06,440 --> 00:00:08,440
+Settings has a page about me?
+
+4
+00:00:08,640 --> 00:00:12,390
+Custom instructions. What you do, who it's for, how long.
+
+5
+00:00:12,590 --> 00:00:14,590
+And it reads that every chat?
+
+6
+00:00:14,790 --> 00:00:17,420
+Every new chat, before your first message.
+
+7
+00:00:17,620 --> 00:00:19,950
+So I write "I'm a millionaire" and...
+
+8
+00:00:20,150 --> 00:00:23,520
+It writes like you're a millionaire. You stay broke.
+
+9
+00:00:23,720 --> 00:00:26,720
+Side hustle 48: explain my job once. Comment SETUP.
+
+10
+00:00:26,920 --> 00:00:31,420
+And I'll send the template. So you never explain your job again.
+

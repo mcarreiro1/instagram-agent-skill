@@ -1,0 +1,12 @@
+# EP03 - Long chats get worse. Hook #2 Negative Command, 80.2 STRONG.
+DEX: Stop using one chat for 3 weeks.
+NOVA: But that chat knows me. We've been through things.
+DEX: It's 400 messages long. It's forgetting the early ones.
+NOVA: It forgets?
+DEX: Every model can only hold so much. Your first instructions fade.
+[on screen: scroll up a very long chat]
+NOVA: So we're too close?
+DEX: Because it's too long. Ask for a summary, start fresh.
+NOVA: A summary of our 3 weeks. Romantic.
+DEX: Paste it into a new chat. Sharp again.
+NOVA: Side hustle 49: breaking up with a chat every 3 weeks.

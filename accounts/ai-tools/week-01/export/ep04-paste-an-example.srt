@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:03,000
+Stop describing the tone. Paste one example instead.
+
+2
+00:00:03,200 --> 00:00:05,870
+But I wrote "witty, warm, professional, not cringe."
+
+3
+00:00:06,070 --> 00:00:07,940
+And it wrote LinkedIn poetry.
+
+4
+00:00:08,140 --> 00:00:09,810
+Every single time. With emojis.
+
+5
+00:00:10,010 --> 00:00:13,010
+Adjectives mean something different to everyone. Examples don't.
+
+6
+00:00:13,010 --> 00:00:16,010
+Paste one thing you wrote. Say "match this."
+
+7
+00:00:16,210 --> 00:00:17,540
+That's it? One example?
+
+8
+00:00:17,740 --> 00:00:20,740
+One works. Three is better. Zero adjectives needed.
+
+9
+00:00:20,940 --> 00:00:23,940
+Side hustle 50: selling my old emails as examples.
+
+10
+00:00:24,140 --> 00:00:27,890
+Comment EXAMPLE and I'll send the prompt. Paste one example.
+

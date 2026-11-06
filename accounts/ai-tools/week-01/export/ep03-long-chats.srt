@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:02,620
+Stop using one chat for 3 weeks.
+
+2
+00:00:02,830 --> 00:00:05,830
+But that chat knows me. We've been through things.
+
+3
+00:00:06,030 --> 00:00:09,400
+It's 400 messages long. It's forgetting the early ones.
+
+4
+00:00:09,600 --> 00:00:10,270
+It forgets?
+
+5
+00:00:10,470 --> 00:00:14,590
+Every model can only hold so much. Your first instructions fade.
+
+6
+00:00:14,790 --> 00:00:16,120
+So we're too close?
+
+7
+00:00:16,320 --> 00:00:20,070
+Because it's too long. Ask for a summary, start fresh.
+
+8
+00:00:20,270 --> 00:00:22,610
+A summary of our 3 weeks. Romantic.
+
+9
+00:00:22,810 --> 00:00:25,810
+Paste it into a new chat. Sharp again.
+
+10
+00:00:26,010 --> 00:00:29,670
+Side hustle 49: breaking up with a chat every 3 weeks.
+

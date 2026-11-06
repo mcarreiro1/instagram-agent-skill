@@ -44,7 +44,8 @@ import sys
 WORD_RE = re.compile(r"[A-Za-z0-9$%'’-]+")
 LINE_RE = re.compile(r"^\s*([A-Za-z][A-Za-z0-9 _.'-]{0,30}?)\s*:\s*(.+?)\s*$")
 DIRECTION_RE = re.compile(r"^\s*[\[(](.+)[\])]\s*$")
-CONCRETE_RE = re.compile(r"\$\s?\d|\b\d[\d,.]*\b|(?<!^)\b[A-Z][a-z]{2,}\b")
+# Prices, numbers, and names, including camel-case ones like ChatGPT or YouTube.
+CONCRETE_RE = re.compile(r"\$\s?\d|\b\d[\d,.]*\b|(?<!^)\b[A-Z][a-z]+[A-Z][A-Za-z]*\b|(?<!^)\b[A-Z][a-z]{2,}\b")
 STOPWORDS = {
     "the", "a", "an", "and", "or", "but", "if", "of", "to", "in", "on", "for",
     "with", "that", "this", "it", "is", "are", "was", "were", "be", "been",

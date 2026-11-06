@@ -1,0 +1,12 @@
+# EP04 - Show, don't describe. Hook #2 Negative Command, 85.8 STRONG.
+DEX: Stop describing the tone. Paste one example instead.
+NOVA: But I wrote "witty, warm, professional, not cringe."
+DEX: And it wrote LinkedIn poetry.
+NOVA: Every single time. With emojis.
+DEX: Adjectives mean something different to everyone. Examples don't.
+[on screen: prompt with "Here's one I wrote. Match this:" + pasted email]
+DEX: Paste one thing you wrote. Say "match this."
+NOVA: That's it? One example?
+DEX: One works. Three is better. Zero adjectives needed.
+NOVA: Side hustle 50: selling my old emails as examples.
+DEX: Comment EXAMPLE and I'll send the prompt. Paste one example.

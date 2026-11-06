@@ -1,0 +1,13 @@
+# EP06 - The privacy setting. Hook #2 Negative Command, 51.0 OK.
+DEX: Don't paste that contract into ChatGPT yet.
+NOVA: Why not? It's just a client contract.
+DEX: With their name, their rates and your signature.
+NOVA: ChatGPT won't tell anyone.
+DEX: On personal plans, chats can be used to train models.
+[on screen: Settings > Data controls > "Improve the model for everyone" {{verify wording and default}}]
+DEX: There's a switch for that. Check it.
+NOVA: And if my boss says no AI with client stuff?
+DEX: Then your boss wins. Company policy beats any setting.
+NOVA: So I'll remove the names first?
+DEX: Names, numbers, anything you wouldn't email a stranger.
+NOVA: Side hustle 52: reading the contract before I paste it.

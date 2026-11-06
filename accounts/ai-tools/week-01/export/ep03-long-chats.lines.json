@@ -1,0 +1,119 @@
+{
+  "total_seconds": 29.67,
+  "speakers": {
+    "DEX": {
+      "lines": 5,
+      "share": 0.577,
+      "wpm": 160.0
+    },
+    "NOVA": {
+      "lines": 5,
+      "share": 0.423,
+      "wpm": 180.0
+    }
+  },
+  "lines": [
+    {
+      "n": 1,
+      "speaker": "DEX",
+      "text": "Stop using one chat for 3 weeks.",
+      "start": 0.0,
+      "end": 2.62,
+      "dur": 2.62,
+      "file": "001_dex.mp3",
+      "directions": []
+    },
+    {
+      "n": 2,
+      "speaker": "NOVA",
+      "text": "But that chat knows me. We've been through things.",
+      "start": 2.83,
+      "end": 5.83,
+      "dur": 3.0,
+      "file": "002_nova.mp3",
+      "directions": []
+    },
+    {
+      "n": 3,
+      "speaker": "DEX",
+      "text": "It's 400 messages long. It's forgetting the early ones.",
+      "start": 6.03,
+      "end": 9.4,
+      "dur": 3.38,
+      "file": "003_dex.mp3",
+      "directions": []
+    },
+    {
+      "n": 4,
+      "speaker": "NOVA",
+      "text": "It forgets?",
+      "start": 9.6,
+      "end": 10.27,
+      "dur": 0.67,
+      "file": "004_nova.mp3",
+      "directions": []
+    },
+    {
+      "n": 5,
+      "speaker": "DEX",
+      "text": "Every model can only hold so much. Your first instructions fade.",
+      "start": 10.47,
+      "end": 14.59,
+      "dur": 4.12,
+      "file": "005_dex.mp3",
+      "directions": []
+    },
+    {
+      "n": 6,
+      "speaker": "NOVA",
+      "text": "So we're too close?",
+      "start": 14.79,
+      "end": 16.12,
+      "dur": 1.33,
+      "file": "006_nova.mp3",
+      "directions": [
+        "on screen: scroll up a very long chat"
+      ]
+    },
+    {
+      "n": 7,
+      "speaker": "DEX",
+      "text": "Because it's too long. Ask for a summary, start fresh.",
+      "start": 16.32,
+      "end": 20.07,
+      "dur": 3.75,
+      "file": "007_dex.mp3",
+      "directions": []
+    },
+    {
+      "n": 8,
+      "speaker": "NOVA",
+      "text": "A summary of our 3 weeks. Romantic.",
+      "start": 20.27,
+      "end": 22.61,
+      "dur": 2.33,
+      "file": "008_nova.mp3",
+      "directions": []
+    },
+    {
+      "n": 9,
+      "speaker": "DEX",
+      "text": "Paste it into a new chat. Sharp again.",
+      "start": 22.81,
+      "end": 25.81,
+      "dur": 3.0,
+      "file": "009_dex.mp3",
+      "directions": []
+    },
+    {
+      "n": 10,
+      "speaker": "NOVA",
+      "text": "Side hustle 49: breaking up with a chat every 3 weeks.",
+      "start": 26.01,
+      "end": 29.67,
+      "dur": 3.67,
+      "file": "010_nova.mp3",
+      "directions": []
+    }
+  ]
+}
