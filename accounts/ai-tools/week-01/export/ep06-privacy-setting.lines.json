@@ -1,128 +1,128 @@
 {
-  "total_seconds": 32.51,
+  "total_seconds": 27.11,
   "speakers": {
-    "DEX": {
+    "OTTO": {
       "lines": 6,
-      "share": 0.57,
-      "wpm": 160.0
+      "share": 0.689,
+      "wpm": 190.0
     },
-    "NOVA": {
+    "MARTY": {
       "lines": 5,
-      "share": 0.43,
-      "wpm": 180.0
+      "share": 0.311,
+      "wpm": 150.0
     }
   },
   "lines": [
     {
       "n": 1,
-      "speaker": "DEX",
-      "text": "Don't paste that contract into ChatGPT yet.",
+      "speaker": "OTTO",
+      "text": "Don't paste the landlord's lease into ChatGPT yet!",
       "start": 0.0,
-      "end": 2.62,
-      "dur": 2.62,
-      "file": "001_dex.mp3",
+      "end": 2.53,
+      "dur": 2.53,
+      "file": "001_otto.mp3",
       "directions": []
     },
     {
       "n": 2,
-      "speaker": "NOVA",
-      "text": "Why not? It's just a client contract.",
-      "start": 2.83,
-      "end": 5.16,
-      "dur": 2.33,
-      "file": "002_nova.mp3",
+      "speaker": "MARTY",
+      "text": "Why not. It's just a lease.",
+      "start": 2.73,
+      "end": 5.13,
+      "dur": 2.4,
+      "file": "002_marty.mp3",
       "directions": []
     },
     {
       "n": 3,
-      "speaker": "DEX",
-      "text": "With their name, their rates and your signature.",
-      "start": 5.36,
-      "end": 8.36,
-      "dur": 3.0,
-      "file": "003_dex.mp3",
+      "speaker": "OTTO",
+      "text": "With his name, your rent and your signature!",
+      "start": 5.33,
+      "end": 7.85,
+      "dur": 2.53,
+      "file": "003_otto.mp3",
       "directions": []
     },
     {
       "n": 4,
-      "speaker": "NOVA",
+      "speaker": "MARTY",
       "text": "ChatGPT won't tell anyone.",
-      "start": 8.56,
-      "end": 9.89,
-      "dur": 1.33,
-      "file": "004_nova.mp3",
+      "start": 8.05,
+      "end": 9.65,
+      "dur": 1.6,
+      "file": "004_marty.mp3",
       "directions": []
     },
     {
       "n": 5,
-      "speaker": "DEX",
+      "speaker": "OTTO",
       "text": "On personal plans, chats can be used to train models.",
-      "start": 10.09,
-      "end": 13.84,
-      "dur": 3.75,
-      "file": "005_dex.mp3",
+      "start": 9.85,
+      "end": 13.01,
+      "dur": 3.16,
+      "file": "005_otto.mp3",
       "directions": []
     },
     {
       "n": 6,
-      "speaker": "DEX",
+      "speaker": "OTTO",
       "text": "There's a switch for that. Check it.",
-      "start": 13.84,
-      "end": 16.47,
-      "dur": 2.62,
-      "file": "006_dex.mp3",
+      "start": 13.01,
+      "end": 15.22,
+      "dur": 2.21,
+      "file": "006_otto.mp3",
       "directions": [
         "on screen: Settings > Data controls > \"Improve the model for everyone\" {{verify wording and default}}"
       ]
     },
     {
       "n": 7,
-      "speaker": "NOVA",
-      "text": "And if my boss says no AI with client stuff?",
-      "start": 16.67,
-      "end": 20.0,
-      "dur": 3.33,
-      "file": "007_nova.mp3",
+      "speaker": "MARTY",
+      "text": "And the names?",
+      "start": 15.42,
+      "end": 16.62,
+      "dur": 1.2,
+      "file": "007_marty.mp3",
       "directions": []
     },
     {
       "n": 8,
-      "speaker": "DEX",
-      "text": "Then your boss wins. Company policy beats any setting.",
-      "start": 20.2,
-      "end": 23.57,
-      "dur": 3.38,
-      "file": "008_dex.mp3",
+      "speaker": "OTTO",
+      "text": "Cut names, numbers, anything you wouldn't tape to the register.",
+      "start": 16.82,
+      "end": 19.98,
+      "dur": 3.16,
+      "file": "008_otto.mp3",
       "directions": []
     },
     {
       "n": 9,
-      "speaker": "NOVA",
-      "text": "So I'll remove the names first?",
-      "start": 23.77,
-      "end": 25.77,
-      "dur": 2.0,
-      "file": "009_nova.mp3",
+      "speaker": "MARTY",
+      "text": "Okay. Remove the landlord.",
+      "start": 20.18,
+      "end": 21.78,
+      "dur": 1.6,
+      "file": "009_marty.mp3",
       "directions": []
     },
     {
       "n": 10,
-      "speaker": "DEX",
-      "text": "Names, numbers, anything you wouldn't email a stranger.",
-      "start": 25.97,
-      "end": 28.97,
-      "dur": 3.0,
-      "file": "010_dex.mp3",
+      "speaker": "OTTO",
+      "text": "Not like that. New item: the Redacted Reuben.",
+      "start": 21.98,
+      "end": 24.51,
+      "dur": 2.53,
+      "file": "010_otto.mp3",
       "directions": []
     },
     {
       "n": 11,
-      "speaker": "NOVA",
-      "text": "Side hustle 52: reading the contract before I paste it.",
-      "start": 29.17,
-      "end": 32.51,
-      "dur": 3.33,
-      "file": "011_nova.mp3",
+      "speaker": "MARTY",
+      "text": "Fine. Then I paste the lease.",
+      "start": 24.71,
+      "end": 27.11,
+      "dur": 2.4,
+      "file": "011_marty.mp3",
       "directions": []
     }
   ]

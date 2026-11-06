@@ -1,13 +1,13 @@
-# EP06 - The privacy setting. Hook #2 Negative Command, 51.0 OK.
-DEX: Don't paste that contract into ChatGPT yet.
-NOVA: Why not? It's just a client contract.
-DEX: With their name, their rates and your signature.
-NOVA: ChatGPT won't tell anyone.
-DEX: On personal plans, chats can be used to train models.
+# EP06 - The privacy setting. Hook 51.0 OK.
+OTTO: Don't paste the landlord's lease into ChatGPT yet!
+MARTY: Why not. It's just a lease.
+OTTO: With his name, your rent and your signature!
+MARTY: ChatGPT won't tell anyone.
+OTTO: On personal plans, chats can be used to train models.
 [on screen: Settings > Data controls > "Improve the model for everyone" {{verify wording and default}}]
-DEX: There's a switch for that. Check it.
-NOVA: And if my boss says no AI with client stuff?
-DEX: Then your boss wins. Company policy beats any setting.
-NOVA: So I'll remove the names first?
-DEX: Names, numbers, anything you wouldn't email a stranger.
-NOVA: Side hustle 52: reading the contract before I paste it.
+OTTO: There's a switch for that. Check it.
+MARTY: And the names?
+OTTO: Cut names, numbers, anything you wouldn't tape to the register.
+MARTY: Okay. Remove the landlord.
+OTTO: Not like that. New item: the Redacted Reuben.
+MARTY: Fine. Then I paste the lease.

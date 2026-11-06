@@ -1,40 +1,40 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,530
 Stop describing the tone. Paste one example instead.
 
 2
-00:00:03,200 --> 00:00:05,870
-But I wrote "witty, warm, professional, not cringe."
+00:00:02,730 --> 00:00:05,130
+I said "friendly, local, not weird."
 
 3
-00:00:06,070 --> 00:00:07,940
-And it wrote LinkedIn poetry.
+00:00:05,330 --> 00:00:08,170
+And it wrote a menu that says "culinary journey."
 
 4
-00:00:08,140 --> 00:00:09,810
-Every single time. With emojis.
+00:00:08,370 --> 00:00:09,570
+Twice. With emojis.
 
 5
-00:00:10,010 --> 00:00:13,010
-Adjectives mean something different to everyone. Examples don't.
+00:00:09,770 --> 00:00:12,290
+Adjectives mean something different to everyone. Examples don't!
 
 6
-00:00:13,010 --> 00:00:16,010
-Paste one thing you wrote. Say "match this."
+00:00:12,290 --> 00:00:14,510
+Paste your old menu. Say "match this."
 
 7
-00:00:16,210 --> 00:00:17,540
-That's it? One example?
+00:00:14,710 --> 00:00:15,510
+One menu?
 
 8
-00:00:17,740 --> 00:00:20,740
-One works. Three is better. Zero adjectives needed.
+00:00:15,710 --> 00:00:17,920
+One works. Three is better. Zero adjectives!
 
 9
-00:00:20,940 --> 00:00:23,940
-Side hustle 50: selling my old emails as examples.
+00:00:18,120 --> 00:00:20,920
+"Eggs. Toast. Coffee. Leave." There's my example.
 
 10
-00:00:24,140 --> 00:00:27,890
-Comment EXAMPLE and I'll send the prompt. Paste one example.
+00:00:21,120 --> 00:00:23,640
+Comment EXAMPLE for the prompt. Paste one example.
 

@@ -1,44 +1,52 @@
 1
-00:00:00,000 --> 00:00:02,670
-Nobody tells you ChatGPT can invent a source.
+00:00:00,000 --> 00:00:02,530
+Stop trusting the study ChatGPT gave you, Dad.
 
 2
-00:00:02,870 --> 00:00:05,120
-Studies, quotes, links. All very confident.
+00:00:02,730 --> 00:00:05,530
+It says pancakes cure headaches. It's science.
 
 3
-00:00:05,320 --> 00:00:07,320
-But it gave me a link!
+00:00:05,730 --> 00:00:06,990
+Did you click it?
 
 4
-00:00:07,520 --> 00:00:09,770
-Click it. Sometimes it goes nowhere.
+00:00:07,190 --> 00:00:08,790
+I don't click things.
 
 5
-00:00:09,970 --> 00:00:10,970
-So it's lying?
+00:00:08,990 --> 00:00:10,880
+Click it. Sometimes it goes nowhere.
 
 6
-00:00:11,170 --> 00:00:14,540
-No. It predicts what a source should look like.
+00:00:11,080 --> 00:00:12,280
+So it lied.
 
 7
-00:00:14,740 --> 00:00:16,740
-That's literally lying with extra steps.
+00:00:12,480 --> 00:00:15,640
+It predicts what a source should look like. Very convincing!
 
 8
-00:00:16,940 --> 00:00:20,690
-Fair. Fix: turn on web search, then click every link.
+00:00:15,840 --> 00:00:17,840
+That's lying with extra steps.
 
 9
-00:00:20,690 --> 00:00:24,070
-If you can't open it, you can't quote it.
+00:00:18,040 --> 00:00:20,880
+Fair. Turn on web search. Then click every link.
 
 10
-00:00:24,270 --> 00:00:27,270
-So the source doesn't exist until I click it.
+00:00:20,880 --> 00:00:23,730
+Can't open it? Can't put it on the menu.
 
 11
-00:00:27,470 --> 00:00:30,840
-Comment SOURCES for my 3-step check. Click every source.
+00:00:23,930 --> 00:00:25,530
+Okay. No medical pancakes.
+
+12
+00:00:25,730 --> 00:00:27,940
+New special: the Fact-Check Flapjack. Comment SOURCES.
+
+13
+00:00:28,140 --> 00:00:30,940
+Fine. Next time I click the study.
 

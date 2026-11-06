@@ -1,13 +1,12 @@
-# EP05 - Make it interview you. Hook #2 Negative Command, 81.4 STRONG.
-DEX: Stop answering your own prompt. Let ChatGPT ask.
-NOVA: I gave it everything. Three whole words.
-DEX: "Write marketing plan." It guessed the other 200.
-NOVA: It's a genius. It should know.
-DEX: Add one line: "Ask me 3 questions before you answer."
-[on screen: ChatGPT replies with 3 questions: budget, audience, deadline]
-NOVA: Budget, audience, deadline. Wow, rude.
-DEX: Those are the answers it was guessing.
-NOVA: So now it's about my business?
-DEX: Yours. Not an average one.
-NOVA: Side hustle 51: just answer the 3 questions. Comment ASK.
-DEX: For the prompt. And stop answering your own prompt.
+# EP05 - Make it interview you. Hook 81.4 STRONG.
+OTTO: Stop answering your own prompt. Let ChatGPT ask.
+MARTY: I gave it everything. "Diner marketing plan."
+OTTO: Three words! It guessed the other 200.
+MARTY: It's supposed to be smart.
+OTTO: Add one line: "Ask me 3 questions before you answer."
+[on screen: ChatGPT replies with 3 questions: budget, customers, slow days]
+MARTY: Budget, customers, slow days. Rude.
+OTTO: Those are the answers it was guessing!
+MARTY: So now the plan is about my diner?
+OTTO: Yours! Not an average one. Comment ASK for the prompt.
+MARTY: Okay. I'll stop answering my own prompt.

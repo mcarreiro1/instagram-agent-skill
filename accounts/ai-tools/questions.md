@@ -1,12 +1,12 @@
 # 30 questions - the first month
 
-Phrased the way Nova would ask them. Each one is a Reel. `[W1]` = scripted in
+Phrased the way Marty would ask them. Each one is a Reel. `[W1]` = scripted in
 `week-01/`. Check facts against the current tools before scripting: AI products
 change monthly, and a wrong tip gets dunked on in the comments.
 
 ## Using ChatGPT better
-1. [W1] Why do I explain my job to ChatGPT every time? (custom instructions)
-2. [W1] Why does everything it writes sound like LinkedIn? (paste an example)
+1. [W1] Why do I tell ChatGPT I run a diner every time? (custom instructions)
+2. [W1] Why does my menu say "culinary journey"? (paste an example)
 3. [W1] Why is its plan so generic? (make it ask you 3 questions)
 4. [W1] Why should I not take the first answer? (ask for 3 versions)
 5. [W1] Why does it get worse the longer we talk? (start fresh with a summary)
@@ -17,8 +17,8 @@ change monthly, and a wrong tip gets dunked on in the comments.
 10. What is a "project" or "custom GPT" and do I need one?
 
 ## Trust and safety
-11. [W1] It just makes up sources? (hallucinated citations; click every link)
-12. [W1] Should I paste my client contract in? (data settings, company policy)
+11. [W1] ChatGPT gave me a study. Is it real? (made-up citations; click every link)
+12. [W1] Should I paste my lease in? (data settings, removing names)
 13. Why is it so confident when it's wrong?
 14. Can my boss tell I used AI? (and should you hide it)
 15. Is it safe to give it my spreadsheet?
@@ -40,6 +40,6 @@ change monthly, and a wrong tip gets dunked on in the comments.
 27. Can it read my CV the way a recruiter does?
 28. Can it explain a contract in plain English? (and where that stops)
 
-## How it works (the "Dex nerds out" episodes)
+## How it works (the "Otto nerds out" episodes)
 29. Why does it not know what happened yesterday? (training cutoff vs web search)
 30. What is a token, and why does it matter? (cost, length, why long chats fade)

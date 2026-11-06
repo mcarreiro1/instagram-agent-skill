@@ -1,44 +1,40 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,530
 Stop answering your own prompt. Let ChatGPT ask.
 
 2
-00:00:03,200 --> 00:00:05,530
-I gave it everything. Three whole words.
+00:00:02,730 --> 00:00:05,530
+I gave it everything. "Diner marketing plan."
 
 3
-00:00:05,730 --> 00:00:08,730
-"Write marketing plan." It guessed the other 200.
+00:00:05,730 --> 00:00:07,940
+Three words! It guessed the other 200.
 
 4
-00:00:08,930 --> 00:00:10,930
-It's a genius. It should know.
+00:00:08,140 --> 00:00:10,140
+It's supposed to be smart.
 
 5
-00:00:11,130 --> 00:00:14,880
+00:00:10,340 --> 00:00:13,490
 Add one line: "Ask me 3 questions before you answer."
 
 6
-00:00:15,080 --> 00:00:16,750
-Budget, audience, deadline. Wow, rude.
+00:00:13,690 --> 00:00:15,690
+Budget, customers, slow days. Rude.
 
 7
-00:00:16,950 --> 00:00:19,570
-Those are the answers it was guessing.
+00:00:15,890 --> 00:00:18,110
+Those are the answers it was guessing!
 
 8
-00:00:19,770 --> 00:00:21,770
-So now it's about my business?
+00:00:18,310 --> 00:00:21,510
+So now the plan is about my diner?
 
 9
-00:00:21,970 --> 00:00:23,850
-Yours. Not an average one.
+00:00:21,710 --> 00:00:24,860
+Yours! Not an average one. Comment ASK for the prompt.
 
 10
-00:00:24,050 --> 00:00:27,380
-Side hustle 51: just answer the 3 questions. Comment ASK.
-
-11
-00:00:27,580 --> 00:00:30,960
-For the prompt. And stop answering your own prompt.
+00:00:25,060 --> 00:00:27,860
+Okay. I'll stop answering my own prompt.
 

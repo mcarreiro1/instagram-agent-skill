@@ -1,40 +1,40 @@
 1
-00:00:00,000 --> 00:00:02,620
-Stop using one chat for 3 weeks.
+00:00:00,000 --> 00:00:02,530
+Dad, stop using one chat for 3 weeks.
 
 2
-00:00:02,830 --> 00:00:05,830
-But that chat knows me. We've been through things.
+00:00:02,730 --> 00:00:06,330
+That chat knows the diner. We've been through things.
 
 3
-00:00:06,030 --> 00:00:09,400
-It's 400 messages long. It's forgetting the early ones.
+00:00:06,530 --> 00:00:09,370
+It's 400 messages long! It's losing the early ones.
 
 4
-00:00:09,600 --> 00:00:10,270
+00:00:09,570 --> 00:00:10,370
 It forgets?
 
 5
-00:00:10,470 --> 00:00:14,590
+00:00:10,570 --> 00:00:14,040
 Every model can only hold so much. Your first instructions fade.
 
 6
-00:00:14,790 --> 00:00:16,120
-So we're too close?
+00:00:14,240 --> 00:00:17,040
+That's why it forgot we close Mondays.
 
 7
-00:00:16,320 --> 00:00:20,070
-Because it's too long. Ask for a summary, start fresh.
+00:00:17,240 --> 00:00:20,400
+Ask for a summary. Paste it into a new chat.
 
 8
-00:00:20,270 --> 00:00:22,610
-A summary of our 3 weeks. Romantic.
+00:00:20,600 --> 00:00:24,200
+A summary of 3 weeks. Like my tax return.
 
 9
-00:00:22,810 --> 00:00:25,810
-Paste it into a new chat. Sharp again.
+00:00:24,400 --> 00:00:27,870
+Fresh chat, sharp brain! New dish: the Clean Slate Short Stack.
 
 10
-00:00:26,010 --> 00:00:29,670
-Side hustle 49: breaking up with a chat every 3 weeks.
+00:00:28,070 --> 00:00:30,470
+Okay. New chat every 3 weeks.
 

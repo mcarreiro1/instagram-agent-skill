@@ -1,128 +1,118 @@
 {
-  "total_seconds": 30.96,
+  "total_seconds": 27.86,
   "speakers": {
-    "DEX": {
-      "lines": 6,
-      "share": 0.58,
-      "wpm": 160.0
-    },
-    "NOVA": {
+    "OTTO": {
       "lines": 5,
-      "share": 0.42,
-      "wpm": 180.0
+      "share": 0.568,
+      "wpm": 190.0
+    },
+    "MARTY": {
+      "lines": 5,
+      "share": 0.432,
+      "wpm": 150.0
     }
   },
   "lines": [
     {
       "n": 1,
-      "speaker": "DEX",
+      "speaker": "OTTO",
       "text": "Stop answering your own prompt. Let ChatGPT ask.",
       "start": 0.0,
-      "end": 3.0,
-      "dur": 3.0,
-      "file": "001_dex.mp3",
+      "end": 2.53,
+      "dur": 2.53,
+      "file": "001_otto.mp3",
       "directions": []
     },
     {
       "n": 2,
-      "speaker": "NOVA",
-      "text": "I gave it everything. Three whole words.",
-      "start": 3.2,
+      "speaker": "MARTY",
+      "text": "I gave it everything. \"Diner marketing plan.\"",
+      "start": 2.73,
       "end": 5.53,
-      "dur": 2.33,
-      "file": "002_nova.mp3",
+      "dur": 2.8,
+      "file": "002_marty.mp3",
       "directions": []
     },
     {
       "n": 3,
-      "speaker": "DEX",
-      "text": "\"Write marketing plan.\" It guessed the other 200.",
+      "speaker": "OTTO",
+      "text": "Three words! It guessed the other 200.",
       "start": 5.73,
-      "end": 8.73,
-      "dur": 3.0,
-      "file": "003_dex.mp3",
+      "end": 7.94,
+      "dur": 2.21,
+      "file": "003_otto.mp3",
       "directions": []
     },
     {
       "n": 4,
-      "speaker": "NOVA",
-      "text": "It's a genius. It should know.",
-      "start": 8.93,
-      "end": 10.93,
+      "speaker": "MARTY",
+      "text": "It's supposed to be smart.",
+      "start": 8.14,
+      "end": 10.14,
       "dur": 2.0,
-      "file": "004_nova.mp3",
+      "file": "004_marty.mp3",
       "directions": []
     },
     {
       "n": 5,
-      "speaker": "DEX",
+      "speaker": "OTTO",
       "text": "Add one line: \"Ask me 3 questions before you answer.\"",
-      "start": 11.13,
-      "end": 14.88,
-      "dur": 3.75,
-      "file": "005_dex.mp3",
+      "start": 10.34,
+      "end": 13.49,
+      "dur": 3.16,
+      "file": "005_otto.mp3",
       "directions": []
     },
     {
       "n": 6,
-      "speaker": "NOVA",
-      "text": "Budget, audience, deadline. Wow, rude.",
-      "start": 15.08,
-      "end": 16.75,
-      "dur": 1.67,
-      "file": "006_nova.mp3",
+      "speaker": "MARTY",
+      "text": "Budget, customers, slow days. Rude.",
+      "start": 13.69,
+      "end": 15.69,
+      "dur": 2.0,
+      "file": "006_marty.mp3",
       "directions": [
-        "on screen: ChatGPT replies with 3 questions: budget, audience, deadline"
+        "on screen: ChatGPT replies with 3 questions: budget, customers, slow days"
       ]
     },
     {
       "n": 7,
-      "speaker": "DEX",
-      "text": "Those are the answers it was guessing.",
-      "start": 16.95,
-      "end": 19.57,
-      "dur": 2.62,
-      "file": "007_dex.mp3",
+      "speaker": "OTTO",
+      "text": "Those are the answers it was guessing!",
+      "start": 15.89,
+      "end": 18.11,
+      "dur": 2.21,
+      "file": "007_otto.mp3",
       "directions": []
     },
     {
       "n": 8,
-      "speaker": "NOVA",
-      "text": "So now it's about my business?",
-      "start": 19.77,
-      "end": 21.77,
-      "dur": 2.0,
-      "file": "008_nova.mp3",
+      "speaker": "MARTY",
+      "text": "So now the plan is about my diner?",
+      "start": 18.31,
+      "end": 21.51,
+      "dur": 3.2,
+      "file": "008_marty.mp3",
       "directions": []
     },
     {
       "n": 9,
-      "speaker": "DEX",
-      "text": "Yours. Not an average one.",
-      "start": 21.97,
-      "end": 23.85,
-      "dur": 1.88,
-      "file": "009_dex.mp3",
+      "speaker": "OTTO",
+      "text": "Yours! Not an average one. Comment ASK for the prompt.",
+      "start": 21.71,
+      "end": 24.86,
+      "dur": 3.16,
+      "file": "009_otto.mp3",
       "directions": []
     },
     {
       "n": 10,
-      "speaker": "NOVA",
-      "text": "Side hustle 51: just answer the 3 questions. Comment ASK.",
-      "start": 24.05,
-      "end": 27.38,
-      "dur": 3.33,
-      "file": "010_nova.mp3",
-      "directions": []
-    },
-    {
-      "n": 11,
-      "speaker": "DEX",
-      "text": "For the prompt. And stop answering your own prompt.",
-      "start": 27.58,
-      "end": 30.96,
-      "dur": 3.38,
-      "file": "011_dex.mp3",
+      "speaker": "MARTY",
+      "text": "Okay. I'll stop answering my own prompt.",
+      "start": 25.06,
+      "end": 27.86,
+      "dur": 2.8,
+      "file": "010_marty.mp3",
       "directions": []
     }
   ]

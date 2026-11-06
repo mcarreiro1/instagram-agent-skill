@@ -1,12 +1,12 @@
-# EP07 - Ask for versions. Hook #2 Negative Command, 54.6 OK.
-DEX: Stop accepting ChatGPT's first answer.
-NOVA: But it's so confident. Who am I to argue?
-DEX: The person who has to send it.
-NOVA: Okay, so I ask it to try again?
-DEX: Better. Ask for 3 versions, all different.
+# EP07 - Ask for versions. Hook 85.8 STRONG.
+OTTO: Stop accepting ChatGPT's first answer, Dad.
+MARTY: It's very confident. Who am I to argue.
+OTTO: The guy who has to tape it to the window!
+MARTY: So I ask it to try again.
+OTTO: Better! Ask for 3 versions, all different.
 [on screen: "Give me 3 versions: short, funny, formal"]
-DEX: Short, funny, formal. Then pick one.
-NOVA: Then I pick the best and I'm done?
-DEX: Then say what you liked. It merges them.
-NOVA: Side hustle 53: being ChatGPT's manager.
-DEX: Comment VERSIONS for the prompt. Never take the first answer.
+OTTO: Short, funny, formal. Then pick one.
+MARTY: The short one. Always the short one.
+OTTO: Then tell it what you liked. It merges them.
+MARTY: Okay. Three versions, one sign.
+OTTO: Comment VERSIONS. Never take the first answer!

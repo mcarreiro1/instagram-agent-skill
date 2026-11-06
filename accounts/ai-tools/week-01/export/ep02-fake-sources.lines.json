@@ -1,128 +1,148 @@
 {
-  "total_seconds": 30.84,
+  "total_seconds": 30.94,
   "speakers": {
-    "NOVA": {
-      "lines": 5,
-      "share": 0.395,
-      "wpm": 180.0
+    "OTTO": {
+      "lines": 7,
+      "share": 0.639,
+      "wpm": 190.0
     },
-    "DEX": {
+    "MARTY": {
       "lines": 6,
-      "share": 0.605,
-      "wpm": 160.0
+      "share": 0.361,
+      "wpm": 150.0
     }
   },
   "lines": [
     {
       "n": 1,
-      "speaker": "NOVA",
-      "text": "Nobody tells you ChatGPT can invent a source.",
+      "speaker": "OTTO",
+      "text": "Stop trusting the study ChatGPT gave you, Dad.",
       "start": 0.0,
-      "end": 2.67,
-      "dur": 2.67,
-      "file": "001_nova.mp3",
+      "end": 2.53,
+      "dur": 2.53,
+      "file": "001_otto.mp3",
       "directions": []
     },
     {
       "n": 2,
-      "speaker": "DEX",
-      "text": "Studies, quotes, links. All very confident.",
-      "start": 2.87,
-      "end": 5.12,
-      "dur": 2.25,
-      "file": "002_dex.mp3",
+      "speaker": "MARTY",
+      "text": "It says pancakes cure headaches. It's science.",
+      "start": 2.73,
+      "end": 5.53,
+      "dur": 2.8,
+      "file": "002_marty.mp3",
       "directions": []
     },
     {
       "n": 3,
-      "speaker": "NOVA",
-      "text": "But it gave me a link!",
-      "start": 5.32,
-      "end": 7.32,
-      "dur": 2.0,
-      "file": "003_nova.mp3",
+      "speaker": "OTTO",
+      "text": "Did you click it?",
+      "start": 5.73,
+      "end": 6.99,
+      "dur": 1.26,
+      "file": "003_otto.mp3",
       "directions": []
     },
     {
       "n": 4,
-      "speaker": "DEX",
-      "text": "Click it. Sometimes it goes nowhere.",
-      "start": 7.52,
-      "end": 9.77,
-      "dur": 2.25,
-      "file": "004_dex.mp3",
+      "speaker": "MARTY",
+      "text": "I don't click things.",
+      "start": 7.19,
+      "end": 8.79,
+      "dur": 1.6,
+      "file": "004_marty.mp3",
       "directions": []
     },
     {
       "n": 5,
-      "speaker": "NOVA",
-      "text": "So it's lying?",
-      "start": 9.97,
-      "end": 10.97,
-      "dur": 1.0,
-      "file": "005_nova.mp3",
+      "speaker": "OTTO",
+      "text": "Click it. Sometimes it goes nowhere.",
+      "start": 8.99,
+      "end": 10.88,
+      "dur": 1.89,
+      "file": "005_otto.mp3",
+      "directions": []
+    },
+    {
+      "n": 6,
+      "speaker": "MARTY",
+      "text": "So it lied.",
+      "start": 11.08,
+      "end": 12.28,
+      "dur": 1.2,
+      "file": "006_marty.mp3",
       "directions": [
         "on screen: link opens to a 404 page"
       ]
     },
     {
-      "n": 6,
-      "speaker": "DEX",
-      "text": "No. It predicts what a source should look like.",
-      "start": 11.17,
-      "end": 14.54,
-      "dur": 3.38,
-      "file": "006_dex.mp3",
-      "directions": []
-    },
-    {
       "n": 7,
-      "speaker": "NOVA",
-      "text": "That's literally lying with extra steps.",
-      "start": 14.74,
-      "end": 16.74,
-      "dur": 2.0,
-      "file": "007_nova.mp3",
+      "speaker": "OTTO",
+      "text": "It predicts what a source should look like. Very convincing!",
+      "start": 12.48,
+      "end": 15.64,
+      "dur": 3.16,
+      "file": "007_otto.mp3",
       "directions": []
     },
     {
       "n": 8,
-      "speaker": "DEX",
-      "text": "Fair. Fix: turn on web search, then click every link.",
-      "start": 16.94,
-      "end": 20.69,
-      "dur": 3.75,
-      "file": "008_dex.mp3",
+      "speaker": "MARTY",
+      "text": "That's lying with extra steps.",
+      "start": 15.84,
+      "end": 17.84,
+      "dur": 2.0,
+      "file": "008_marty.mp3",
       "directions": []
     },
     {
       "n": 9,
-      "speaker": "DEX",
-      "text": "If you can't open it, you can't quote it.",
-      "start": 20.69,
-      "end": 24.07,
-      "dur": 3.38,
-      "file": "009_dex.mp3",
+      "speaker": "OTTO",
+      "text": "Fair. Turn on web search. Then click every link.",
+      "start": 18.04,
+      "end": 20.88,
+      "dur": 2.84,
+      "file": "009_otto.mp3",
       "directions": []
     },
     {
       "n": 10,
-      "speaker": "NOVA",
-      "text": "So the source doesn't exist until I click it.",
-      "start": 24.27,
-      "end": 27.27,
-      "dur": 3.0,
-      "file": "010_nova.mp3",
+      "speaker": "OTTO",
+      "text": "Can't open it? Can't put it on the menu.",
+      "start": 20.88,
+      "end": 23.73,
+      "dur": 2.84,
+      "file": "010_otto.mp3",
       "directions": []
     },
     {
       "n": 11,
-      "speaker": "DEX",
-      "text": "Comment SOURCES for my 3-step check. Click every source.",
-      "start": 27.47,
-      "end": 30.84,
-      "dur": 3.38,
-      "file": "011_dex.mp3",
+      "speaker": "MARTY",
+      "text": "Okay. No medical pancakes.",
+      "start": 23.93,
+      "end": 25.53,
+      "dur": 1.6,
+      "file": "011_marty.mp3",
+      "directions": []
+    },
+    {
+      "n": 12,
+      "speaker": "OTTO",
+      "text": "New special: the Fact-Check Flapjack. Comment SOURCES.",
+      "start": 25.73,
+      "end": 27.94,
+      "dur": 2.21,
+      "file": "012_otto.mp3",
+      "directions": []
+    },
+    {
+      "n": 13,
+      "speaker": "MARTY",
+      "text": "Fine. Next time I click the study.",
+      "start": 28.14,
+      "end": 30.94,
+      "dur": 2.8,
+      "file": "013_marty.mp3",
       "directions": []
     }
   ]

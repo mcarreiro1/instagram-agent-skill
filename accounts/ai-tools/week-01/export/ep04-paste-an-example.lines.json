@@ -1,118 +1,118 @@
 {
-  "total_seconds": 27.89,
+  "total_seconds": 23.64,
   "speakers": {
-    "DEX": {
+    "OTTO": {
       "lines": 6,
-      "share": 0.644,
-      "wpm": 160.0
+      "share": 0.723,
+      "wpm": 190.0
     },
-    "NOVA": {
+    "MARTY": {
       "lines": 4,
-      "share": 0.356,
-      "wpm": 180.0
+      "share": 0.277,
+      "wpm": 150.0
     }
   },
   "lines": [
     {
       "n": 1,
-      "speaker": "DEX",
+      "speaker": "OTTO",
       "text": "Stop describing the tone. Paste one example instead.",
       "start": 0.0,
-      "end": 3.0,
-      "dur": 3.0,
-      "file": "001_dex.mp3",
+      "end": 2.53,
+      "dur": 2.53,
+      "file": "001_otto.mp3",
       "directions": []
     },
     {
       "n": 2,
-      "speaker": "NOVA",
-      "text": "But I wrote \"witty, warm, professional, not cringe.\"",
-      "start": 3.2,
-      "end": 5.87,
-      "dur": 2.67,
-      "file": "002_nova.mp3",
+      "speaker": "MARTY",
+      "text": "I said \"friendly, local, not weird.\"",
+      "start": 2.73,
+      "end": 5.13,
+      "dur": 2.4,
+      "file": "002_marty.mp3",
       "directions": []
     },
     {
       "n": 3,
-      "speaker": "DEX",
-      "text": "And it wrote LinkedIn poetry.",
-      "start": 6.07,
-      "end": 7.94,
-      "dur": 1.88,
-      "file": "003_dex.mp3",
+      "speaker": "OTTO",
+      "text": "And it wrote a menu that says \"culinary journey.\"",
+      "start": 5.33,
+      "end": 8.17,
+      "dur": 2.84,
+      "file": "003_otto.mp3",
       "directions": []
     },
     {
       "n": 4,
-      "speaker": "NOVA",
-      "text": "Every single time. With emojis.",
-      "start": 8.14,
-      "end": 9.81,
-      "dur": 1.67,
-      "file": "004_nova.mp3",
+      "speaker": "MARTY",
+      "text": "Twice. With emojis.",
+      "start": 8.37,
+      "end": 9.57,
+      "dur": 1.2,
+      "file": "004_marty.mp3",
       "directions": []
     },
     {
       "n": 5,
-      "speaker": "DEX",
-      "text": "Adjectives mean something different to everyone. Examples don't.",
-      "start": 10.01,
-      "end": 13.01,
-      "dur": 3.0,
-      "file": "005_dex.mp3",
+      "speaker": "OTTO",
+      "text": "Adjectives mean something different to everyone. Examples don't!",
+      "start": 9.77,
+      "end": 12.29,
+      "dur": 2.53,
+      "file": "005_otto.mp3",
       "directions": []
     },
     {
       "n": 6,
-      "speaker": "DEX",
-      "text": "Paste one thing you wrote. Say \"match this.\"",
-      "start": 13.01,
-      "end": 16.01,
-      "dur": 3.0,
-      "file": "006_dex.mp3",
+      "speaker": "OTTO",
+      "text": "Paste your old menu. Say \"match this.\"",
+      "start": 12.29,
+      "end": 14.51,
+      "dur": 2.21,
+      "file": "006_otto.mp3",
       "directions": [
-        "on screen: prompt with \"Here's one I wrote. Match this:\" + pasted email"
+        "on screen: prompt \"Here's our old menu. Match this:\" + pasted menu"
       ]
     },
     {
       "n": 7,
-      "speaker": "NOVA",
-      "text": "That's it? One example?",
-      "start": 16.21,
-      "end": 17.54,
-      "dur": 1.33,
-      "file": "007_nova.mp3",
+      "speaker": "MARTY",
+      "text": "One menu?",
+      "start": 14.71,
+      "end": 15.51,
+      "dur": 0.8,
+      "file": "007_marty.mp3",
       "directions": []
     },
     {
       "n": 8,
-      "speaker": "DEX",
-      "text": "One works. Three is better. Zero adjectives needed.",
-      "start": 17.74,
-      "end": 20.74,
-      "dur": 3.0,
-      "file": "008_dex.mp3",
+      "speaker": "OTTO",
+      "text": "One works. Three is better. Zero adjectives!",
+      "start": 15.71,
+      "end": 17.92,
+      "dur": 2.21,
+      "file": "008_otto.mp3",
       "directions": []
     },
     {
       "n": 9,
-      "speaker": "NOVA",
-      "text": "Side hustle 50: selling my old emails as examples.",
-      "start": 20.94,
-      "end": 23.94,
-      "dur": 3.0,
-      "file": "009_nova.mp3",
+      "speaker": "MARTY",
+      "text": "\"Eggs. Toast. Coffee. Leave.\" There's my example.",
+      "start": 18.12,
+      "end": 20.92,
+      "dur": 2.8,
+      "file": "009_marty.mp3",
       "directions": []
     },
     {
       "n": 10,
-      "speaker": "DEX",
-      "text": "Comment EXAMPLE and I'll send the prompt. Paste one example.",
-      "start": 24.14,
-      "end": 27.89,
-      "dur": 3.75,
-      "file": "010_dex.mp3",
+      "speaker": "OTTO",
+      "text": "Comment EXAMPLE for the prompt. Paste one example.",
+      "start": 21.12,
+      "end": 23.64,
+      "dur": 2.53,
+      "file": "010_otto.mp3",
       "directions": []
     }
   ]

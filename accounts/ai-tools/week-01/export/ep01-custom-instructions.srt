@@ -1,40 +1,48 @@
 1
-00:00:00,000 --> 00:00:02,670
-40 times I explained my job to ChatGPT.
+00:00:00,000 --> 00:00:02,840
+Stop telling ChatGPT you run a diner. 40 times!
 
 2
-00:00:02,870 --> 00:00:06,240
-You don't need to. Tell it once, in settings.
+00:00:03,040 --> 00:00:04,240
+It keeps forgetting.
 
 3
-00:00:06,440 --> 00:00:08,440
-Settings has a page about me?
+00:00:04,440 --> 00:00:06,340
+So tell it once. In settings.
 
 4
-00:00:08,640 --> 00:00:12,390
-Custom instructions. What you do, who it's for, how long.
+00:00:06,540 --> 00:00:07,340
+Once where.
 
 5
-00:00:12,590 --> 00:00:14,590
-And it reads that every chat?
+00:00:07,540 --> 00:00:10,690
+Custom instructions! Who you are, who it's for, how long.
 
 6
-00:00:14,790 --> 00:00:17,420
-Every new chat, before your first message.
+00:00:10,890 --> 00:00:12,890
+"Tired man. Pancakes. Short answers."
 
 7
-00:00:17,620 --> 00:00:19,950
-So I write "I'm a millionaire" and...
+00:00:13,090 --> 00:00:15,620
+Perfect. It reads that before every new chat.
 
 8
-00:00:20,150 --> 00:00:23,520
-It writes like you're a millionaire. You stay broke.
+00:00:15,820 --> 00:00:16,620
+Every chat.
 
 9
-00:00:23,720 --> 00:00:26,720
-Side hustle 48: explain my job once. Comment SETUP.
+00:00:16,820 --> 00:00:19,030
+Every. Single. Chat. Like a loyal waffle.
 
 10
-00:00:26,920 --> 00:00:31,420
-And I'll send the template. So you never explain your job again.
+00:00:19,230 --> 00:00:20,830
+We don't sell waffles.
+
+11
+00:00:21,030 --> 00:00:24,510
+New menu item: the Settings Stack. Comment SETUP for the template.
+
+12
+00:00:24,710 --> 00:00:28,710
+So I never tell it I run a diner again.
 

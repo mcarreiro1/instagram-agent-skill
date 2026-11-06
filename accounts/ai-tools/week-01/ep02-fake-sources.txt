@@ -1,13 +1,15 @@
-# EP02 - Made-up sources. Hook #3 Nobody Tells You, 52.2 OK.
-NOVA: Nobody tells you ChatGPT can invent a source.
-DEX: Studies, quotes, links. All very confident.
-NOVA: But it gave me a link!
-DEX: Click it. Sometimes it goes nowhere.
+# EP02 - Made-up sources. Hook 81.4 STRONG.
+OTTO: Stop trusting the study ChatGPT gave you, Dad.
+MARTY: It says pancakes cure headaches. It's science.
+OTTO: Did you click it?
+MARTY: I don't click things.
+OTTO: Click it. Sometimes it goes nowhere.
 [on screen: link opens to a 404 page]
-NOVA: So it's lying?
-DEX: No. It predicts what a source should look like.
-NOVA: That's literally lying with extra steps.
-DEX: Fair. Fix: turn on web search, then click every link.
-DEX: If you can't open it, you can't quote it.
-NOVA: So the source doesn't exist until I click it.
-DEX: Comment SOURCES for my 3-step check. Click every source.
+MARTY: So it lied.
+OTTO: It predicts what a source should look like. Very convincing!
+MARTY: That's lying with extra steps.
+OTTO: Fair. Turn on web search. Then click every link.
+OTTO: Can't open it? Can't put it on the menu.
+MARTY: Okay. No medical pancakes.
+OTTO: New special: the Fact-Check Flapjack. Comment SOURCES.
+MARTY: Fine. Next time I click the study.

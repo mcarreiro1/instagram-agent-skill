@@ -1,118 +1,118 @@
 {
-  "total_seconds": 29.67,
+  "total_seconds": 30.47,
   "speakers": {
-    "DEX": {
+    "OTTO": {
       "lines": 5,
-      "share": 0.577,
-      "wpm": 160.0
+      "share": 0.598,
+      "wpm": 190.0
     },
-    "NOVA": {
+    "MARTY": {
       "lines": 5,
-      "share": 0.423,
-      "wpm": 180.0
+      "share": 0.402,
+      "wpm": 150.0
     }
   },
   "lines": [
     {
       "n": 1,
-      "speaker": "DEX",
-      "text": "Stop using one chat for 3 weeks.",
+      "speaker": "OTTO",
+      "text": "Dad, stop using one chat for 3 weeks.",
       "start": 0.0,
-      "end": 2.62,
-      "dur": 2.62,
-      "file": "001_dex.mp3",
+      "end": 2.53,
+      "dur": 2.53,
+      "file": "001_otto.mp3",
       "directions": []
     },
     {
       "n": 2,
-      "speaker": "NOVA",
-      "text": "But that chat knows me. We've been through things.",
-      "start": 2.83,
-      "end": 5.83,
-      "dur": 3.0,
-      "file": "002_nova.mp3",
+      "speaker": "MARTY",
+      "text": "That chat knows the diner. We've been through things.",
+      "start": 2.73,
+      "end": 6.33,
+      "dur": 3.6,
+      "file": "002_marty.mp3",
       "directions": []
     },
     {
       "n": 3,
-      "speaker": "DEX",
-      "text": "It's 400 messages long. It's forgetting the early ones.",
-      "start": 6.03,
-      "end": 9.4,
-      "dur": 3.38,
-      "file": "003_dex.mp3",
+      "speaker": "OTTO",
+      "text": "It's 400 messages long! It's losing the early ones.",
+      "start": 6.53,
+      "end": 9.37,
+      "dur": 2.84,
+      "file": "003_otto.mp3",
       "directions": []
     },
     {
       "n": 4,
-      "speaker": "NOVA",
+      "speaker": "MARTY",
       "text": "It forgets?",
-      "start": 9.6,
-      "end": 10.27,
-      "dur": 0.67,
-      "file": "004_nova.mp3",
+      "start": 9.57,
+      "end": 10.37,
+      "dur": 0.8,
+      "file": "004_marty.mp3",
       "directions": []
     },
     {
       "n": 5,
-      "speaker": "DEX",
+      "speaker": "OTTO",
       "text": "Every model can only hold so much. Your first instructions fade.",
-      "start": 10.47,
-      "end": 14.59,
-      "dur": 4.12,
-      "file": "005_dex.mp3",
+      "start": 10.57,
+      "end": 14.04,
+      "dur": 3.47,
+      "file": "005_otto.mp3",
       "directions": []
     },
     {
       "n": 6,
-      "speaker": "NOVA",
-      "text": "So we're too close?",
-      "start": 14.79,
-      "end": 16.12,
-      "dur": 1.33,
-      "file": "006_nova.mp3",
+      "speaker": "MARTY",
+      "text": "That's why it forgot we close Mondays.",
+      "start": 14.24,
+      "end": 17.04,
+      "dur": 2.8,
+      "file": "006_marty.mp3",
       "directions": [
         "on screen: scroll up a very long chat"
       ]
     },
     {
       "n": 7,
-      "speaker": "DEX",
-      "text": "Because it's too long. Ask for a summary, start fresh.",
-      "start": 16.32,
-      "end": 20.07,
-      "dur": 3.75,
-      "file": "007_dex.mp3",
+      "speaker": "OTTO",
+      "text": "Ask for a summary. Paste it into a new chat.",
+      "start": 17.24,
+      "end": 20.4,
+      "dur": 3.16,
+      "file": "007_otto.mp3",
       "directions": []
     },
     {
       "n": 8,
-      "speaker": "NOVA",
-      "text": "A summary of our 3 weeks. Romantic.",
-      "start": 20.27,
-      "end": 22.61,
-      "dur": 2.33,
-      "file": "008_nova.mp3",
+      "speaker": "MARTY",
+      "text": "A summary of 3 weeks. Like my tax return.",
+      "start": 20.6,
+      "end": 24.2,
+      "dur": 3.6,
+      "file": "008_marty.mp3",
       "directions": []
     },
     {
       "n": 9,
-      "speaker": "DEX",
-      "text": "Paste it into a new chat. Sharp again.",
-      "start": 22.81,
-      "end": 25.81,
-      "dur": 3.0,
-      "file": "009_dex.mp3",
+      "speaker": "OTTO",
+      "text": "Fresh chat, sharp brain! New dish: the Clean Slate Short Stack.",
+      "start": 24.4,
+      "end": 27.87,
+      "dur": 3.47,
+      "file": "009_otto.mp3",
       "directions": []
     },
     {
       "n": 10,
-      "speaker": "NOVA",
-      "text": "Side hustle 49: breaking up with a chat every 3 weeks.",
-      "start": 26.01,
-      "end": 29.67,
-      "dur": 3.67,
-      "file": "010_nova.mp3",
+      "speaker": "MARTY",
+      "text": "Okay. New chat every 3 weeks.",
+      "start": 28.07,
+      "end": 30.47,
+      "dur": 2.4,
+      "file": "010_marty.mp3",
       "directions": []
     }
   ]
