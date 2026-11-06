@@ -1,6 +1,6 @@
 # The Instagram agent skill
 
-Thirteen Claude skills that run an Instagram account. Free, MIT, no signup, no
+Fourteen Claude skills that run an Instagram account. Free, MIT, no signup, no
 API key, nothing to connect.
 
 One of them writes your Reels off 26 hook formulas and scores the hook before
@@ -43,7 +43,7 @@ Or as a plugin:
 
 Project-local instead of global: copy the same folders into your repo's
 `.claude/skills/`. No Claude Code at all? Paste any single `SKILL.md` at the top
-of a chat and it runs as a mode. You lose the five Python tools, which is most
+of a chat and it runs as a mode. You lose the six Python tools, which is most
 of the point of `/ig-reel` and `/ig-human`, but the rest works.
 
 Then spend ten minutes on `templates/voice.md`. Copy it to
@@ -52,11 +52,12 @@ reels and say "write my voice.md from these". Every skill reads that file. It
 matters more here than on other platforms, because you have to say the words
 out loud.
 
-## The thirteen
+## The fourteen
 
 | command | what it does |
 | --- | --- |
 | `/ig-reel` | One idea into a Reel. Three hooks from [26 formulas](skills/ig-reel/hooks.json), scored, then the script, the on-screen text and a timed beat sheet. |
+| `/ig-duo` | Two-character dialogue Reels for a faceless character account. Times each line per voice, flags monologues and dead hooks, exports a per-line voice manifest and SRT captions. With a [cast template](templates/cast.md) and a [playbook](docs/character-account-playbook.md) from zero to newsletter to course. |
 | `/ig-viral` | Goes and finds what is working in your niche, ranks it by multiple over each account's own median, names the formula, writes the swipe file. |
 | `/ig-caption` | The caption, linted. Shows you the 125 characters the feed actually shows before the tap. |
 | `/ig-carousel` | Swipe posts. The cover that earns the swipe, slide copy, and the 1080x1350 files. |
@@ -70,7 +71,7 @@ out loud.
 | `/ig-repurpose` | One video, podcast or newsletter into a week of reels and carousels that each stand alone. |
 | `/ig-audit` | Post-mortem on what you already posted. Ranks by outlier multiple and sends per reach, not views. |
 
-## The five tools that actually run
+## The six tools that actually run
 
 No dependencies, no network, nothing uploaded. They run on your machine, on
 your text.
@@ -120,6 +121,24 @@ BEAT SHEET  ·  73 words  ·  ~26.6s at 165 wpm  ·  target 30.0s
   - 3.5s under target. Either add 9 words or shoot it short. Short is usually
     right.
 ```
+
+### The duo
+
+```bash
+python3 duo.py script.txt --cast NOVA,DEX --wpm NOVA=180 --target 30 \
+    --manifest lines.json --srt reel.srt
+```
+
+For the faceless format where two recurring characters explain something over
+gameplay. Script lines are `NAME: text`. It times each character at their own
+rate, and flags what kills this format: a hook past three seconds, one
+character talking three lines in a row, a character who is only a prop, no
+loop. `lines.json` has one row per line with a filename, ready to voice;
+`reel.srt` is the captions on the same timing.
+
+Build the account on characters and voices you own. The
+[playbook](docs/character-account-playbook.md) says why, and how to get from
+the first Reel to a newsletter and a course.
 
 ### The caption
 
@@ -317,6 +336,7 @@ skills/ig-reel/hooks.json          26 hook formulas: template, example, on-scree
                                    what it is for, how it gets ruined, and a match regex
 skills/ig-reel/hookscore.py        the five-property hook panel
 skills/ig-reel/beats.py            script to timed beat sheet
+skills/ig-duo/duo.py               two-character dialogue timing, voice manifest, SRT
 skills/ig-caption/caption.py       the truncation preview and the caption linter
 skills/ig-human/slop.json          the lexicon: 154 terms, 18 invisible classes, 16 tells
 skills/ig-human/humanize.py        the three cleaning passes
@@ -324,6 +344,8 @@ skills/ig-human/detect.py          the five-check panel
 skills/ig-viral/swipe.py           outlier ranking and formula classification
 skills/ig-profile/rubric.json      the 100-point profile score
 templates/voice.md                 your voice profile. Fill this in first.
+templates/cast.md                  the characters, for a character account
+docs/character-account-playbook.md niche, production, cadence, newsletter, course
 ```
 
 ## Credit
